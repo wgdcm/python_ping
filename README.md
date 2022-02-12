@@ -15,3 +15,6 @@ Run this command in Linux environment.
 sudo python3 ping.py [destination IP / hostname]
 ```
 
+### Note
+
+After the ***sudo python3 ping.py*** command you must specify the IP address or hostname.
