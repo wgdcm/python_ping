@@ -10,7 +10,7 @@ This simple python program provides the same output as the "Ping" utility in the
     sudo apt-get install python3.6
 
 ### How to run
-Run this command in Linux environment.
+Run this command in a Linux environment.
 ```
 sudo python3 ping.py [destination IP / hostname]
 ```
